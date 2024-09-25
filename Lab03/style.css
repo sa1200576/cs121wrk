@@ -1,0 +1,49 @@
+body{
+    background-color: gainsboro;
+    
+}
+h1{
+    color: black;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration-line: underline;
+    background-color: lightgrey;
+}
+article{
+    background-color:rgb(236, 234, 234);
+    color: black;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div{
+    color: red;
+}
+i{
+    color: brown;
+}
+ul{
+    background-color: aliceblue;
+}
+li{
+    color: brown;
+}
+a{
+    color: brown;
+    font-family: fantasy;
+    font-size: larger;
+}
+footer{
+    color: grey;
+    font-family: cursive;
+    font-size: larger;
+}
+h3{
+    background-color: lightgray;
+    color: red;
+}
